@@ -1,4 +1,3 @@
-from mlProject import logger
+from src.mlProject import logger
 
-
-logger.info("My name is Bappy!")
+logger.info("My name is Thomas!")
