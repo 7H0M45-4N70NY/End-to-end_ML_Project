@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "End-to-end-ML-Project-Implementation"
-AUTHOR_USER_NAME = "entbappy"
+REPO_NAME = "End-to-end_ML_Project"
+AUTHOR_USER_NAME = "7H0M45-4N70NY"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+AUTHOR_EMAIL = "thomasantony14@gmail.com"
 
 
 setuptools.setup(
